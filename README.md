@@ -1,5 +1,5 @@
 ### Hi there! I'm @Bryan Qiu 👋
-🧑🏻‍💻 Front-End Engineer, building modern web applications. Exploring AI & Prompt Engineering.
+🧑🏻‍💻 Front-End Engineer, building modern web applications.
 
 - ✍️ Sharing Insights: [Blog](https://github.com/bryqiu/Blog) | [掘金](https://juejin.cn/user/343495027727229/posts) | [SegmentFault](https://segmentfault.com/u/qfifteen/articles)
 - 📬 Reach Me: bryanqiu.me@gmail.com | qfifteen@163.com | WeChat: qfifteen
