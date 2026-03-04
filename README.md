@@ -2,7 +2,7 @@
 🧑🏻‍💻 Front-End Engineer, building modern web applications.
 
 - ✍️ Sharing Insights: [Blog](https://github.com/bryqiu/Blog) | [掘金](https://juejin.cn/user/343495027727229/posts) | [SegmentFault](https://segmentfault.com/u/qfifteen/articles)
-- 📬 Reach Me: bryanqiu.me@gmail.com | qfifteen@163.com | WeChat: qfifteen
+- 📬 Reach Me: bryanqiu.me@gmail.com | qfifteen@163.com | wx: qfifteen
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img alt="React" style='margin: 0;display: inline-block;' src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -12,6 +12,7 @@
   <img alt="Tailwind CSS" style='margin: 0;display: inline-block;' src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Vite" style='margin: 0;display: inline-block;' src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Node.js" style='margin: 0;display: inline-block;' src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img alt="macOS" style='margin: 0;display: inline-block;' src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=Apple&logoColor=white" />
 </div>
 <br/>
 
