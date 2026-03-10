@@ -15,5 +15,3 @@
     <img alt="macOS" style='margin: 0;display: inline-block;' src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=Apple&logoColor=white" />
 </div>
 <br/>
-
-> 2025.12.12，已失业，正在寻求一份前端工作
